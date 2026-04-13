@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+accelerate
+langchain
+langchain-community
+sentence-transformers
+faiss-gpu
+json5
